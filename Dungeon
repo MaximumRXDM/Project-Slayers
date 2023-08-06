@@ -584,7 +584,7 @@ local Sharky1 = Tabs.Teleports:AddRightGroupbox('            [SERVERS]')
 local Shark2 = Tabs.Misc:AddRightGroupbox('       [Auto Collect Lily]')
 local Shark3 = Tabs.Misc:AddRightGroupbox('       [Some Stuffs]')
 
-LeftGroupBox:AddButton("Craeated by Max | .gg/D5dpeQCdHE", function()
+LeftGroupBox:AddButton("Created by Max | .gg/D5dpeQCdHE", function()
     setclipboard("https://discord.gg/D5dpeQCdHE") 
 end)
 
