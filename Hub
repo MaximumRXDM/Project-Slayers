@@ -5,7 +5,7 @@ local ThemeManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/
 local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
 
 local Window = Library:CreateWindow({
-    Title = 'https://raw.githubusercontent.com/MaximumRXDM/Assets/main/Text',
+    Title = 'HexScripts // Hub,
     Center = true,
     AutoShow = true,
 })
