@@ -5,7 +5,7 @@ local ThemeManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/
 local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
 
 local Window = Library:CreateWindow({
-    Title = 'HexScripts // Hub,
+    Title = 'HexScripts // Hub',
     Center = true,
     AutoShow = true,
 })
@@ -20,7 +20,7 @@ local Tabs = {
 local LeftGroupBox = Tabs.Main:AddLeftGroupbox('          [SPINS]')
 
 LeftGroupBox:AddButton("Made by Max || .gg/D5dpeQCdHE", function()
-    setclipboard("https://discord.gg/D5dpeQCdHE) 
+    setclipboard("https://discord.gg/D5dpeQCdHE") 
 end)
 
 LeftGroupBox:AddButton("Auto Daily Spin", function()
