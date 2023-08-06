@@ -583,8 +583,8 @@ local Sharky1 = Tabs.Teleports:AddRightGroupbox('            [SERVERS]')
 local Shark2 = Tabs.Misc:AddRightGroupbox('       [Auto Collect Lily]')
 local Shark3 = Tabs.Misc:AddRightGroupbox('       [Some Stuffs]')
 
-LeftGroupBox:AddButton("Created by Max | .gg/fuAMvQdyj3", function()
-    setclipboard("https://discord.gg/fuAMvQdyj3") 
+LeftGroupBox:AddButton("Created by Max | .gg/D5dpeQCdHE", function()
+    setclipboard("https://discord.gg/D5dpeQCdHE") 
 end)
 
 getgenv().Method = "Sword"
