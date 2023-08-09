@@ -1208,7 +1208,7 @@ local Shark2 = Tabs.Misc:AddRightGroupbox("       [Auto Collect Lily]")
 local Shark3 = Tabs.Misc:AddRightGroupbox("       [Some Stuffs]")
 
 LeftGroupBox:AddButton(
-    "Created by Max | .gg/D5dpeQCdHE"",
+    "Created by Max | .gg/D5dpeQCdHE",
     function()
         setclipboard("https://discord.gg/D5dpeQCdHE")
     end
