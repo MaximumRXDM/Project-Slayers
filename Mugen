@@ -3785,7 +3785,7 @@ Mugen:AddToggle(
 )
 
 Mugen:AddButton(
-    "INSTANT Auto Clash (Use in 7 secs)",
+    "INSTANT Auto Clash (Wait 1 Sec)",
     function()
         local playerName = game:GetService("Players").LocalPlayer.Name
 
@@ -3800,7 +3800,7 @@ Mugen:AddButton(
 ) -- Add the closing parentheses here
 
 Mugen:AddButton(
-    "GLOBAL INSTANT Clash (Use in 7 secs)",
+    "GLOBAL INSTANT Clash (Wait 1 Sec)",
     function()
         local players = game:GetService("Players"):GetPlayers()
 
